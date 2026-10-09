@@ -10,7 +10,7 @@ nav {
 }
 
 nav a:hover {
-    color:aqua;
+    color: darkcyan;
 }
 
 nav a:focus {
@@ -30,7 +30,7 @@ nav a:focus {
 }
 
 img {
-    width: 100%;
+    max-width: 100%;
     height: auto;
 }
 
