@@ -48,3 +48,4 @@ video {
     flex-direction: column;
 }
 
+/* nav starts to look cramped at a width of 430px. it is still functional up until a width of 375, at which point each row is filled with only one card. any smaller and it will start overlapping. */
