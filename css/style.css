@@ -49,3 +49,10 @@ video {
 }
 
 /* nav starts to look cramped at a width of 430px. it is still functional up until a width of 375, at which point each row is filled with only one card. any smaller and it will start overlapping. */
+
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+/* playing with the auto-fill styles for my wrapper */
