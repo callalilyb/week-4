@@ -26,4 +26,5 @@ nav a:focus {
 .card {
     flex: 1;
     flex-basis: 200px;
+    margin: 0;
 }
