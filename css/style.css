@@ -39,3 +39,11 @@ video {
     height: auto;
 }
 
+
+#page-two {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    fixed-height: 250px
+}
+
