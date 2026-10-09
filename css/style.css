@@ -12,3 +12,7 @@ nav {
 nav a:hover {
     color:aqua;
 }
+
+nav a:focus {
+    outline: 2px solid orange;
+}
